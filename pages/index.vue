@@ -1,5 +1,5 @@
 <template>
-    <Headnav />
+    <Headnav class="z-50"/>
 
     <!-- HERO -->
     <section class="mt-20 pb-96" id="Home">
