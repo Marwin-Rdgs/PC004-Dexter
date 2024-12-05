@@ -37,5 +37,7 @@
         <h2>test</h2>
     </section>
 
+    <Footernav />
+
 
 </template>
