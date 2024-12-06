@@ -1,7 +1,7 @@
 <template>
     <div class="sticky top-0">
     <div class="flex justify-center pt-10">
-    <div class="bg-secondary-color bg-opacity-20 w-7/12 rounded-full border-2 border-secondary-color border-opacity-50">
+    <div class="bg-secondary-color bg-opacity-20 w-6/12 rounded-full border-2 border-secondary-color border-opacity-50">
         <ul class="flex justify-center gap-10 py-2">
             <li>
                 <a href="#Home">
