@@ -17,11 +17,11 @@ defineProps({
       <div class="imgBx">
 
           <img :src="`/imgs/${img}.jpg`" alt="Image1">
+          <h2 class="text-center font-Secondary font-bold">{{ name }}</h2>
 
       </div>
 
       <div class="content">
-          <h2>{{ name }}</h2>
           <p>{{ bio }}</p>
       </div>
 
