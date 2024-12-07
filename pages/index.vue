@@ -4,7 +4,7 @@
     <!-- HERO -->
     <section class="mt-40 pb-96" id="Home">
         <div class="relative">
-            <h1 class="text-center text-grey-color font-Secondary font-bold text-6xl animate__animated animate__fadeInUp">Bienvenue sur mon Portfolio !</h1>
+            <h1 class="text-center text-grey-color font-Secondary font-bold text-6xl animate__animated animate__fadeInUp"><span class="text-alert-color">Anthony Hecquet</span> <br /> Bienvenue sur mon Portfolio !</h1>
             <div class="flex justify-center mt-10">
                 <p class="text-center text-secondary-color font-Primary w-1/2 text-lg animate__animated animate__slideInUp">Passionné par l'informatique et la cybersécurité, je me spécialise dans la gestion des infrastructures réseaux et la protection des systèmes. Mon objectif est de fournir des solutions fiables et sécurisées pour répondre aux enjeux technologiques des entreprises.</p>
             </div>
@@ -130,6 +130,24 @@
             img="KEEPASS"/>
         </div>
 
+    </section>
+
+    <section id="Stage">
+        <div class="flex justify-center gap-3">
+            <img src="/public/icons/stars-section.svg" alt="Icon Etoile - Titre section" class="w-[32px]">
+            <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Stages</h1>
+        </div>
+
+        <div class="lg:flex lg:justify-between lg:px-[10%] pt-[5%] gap-2">
+            
+            <CardStage class="w-1/2"
+            name="Consulting Data, Maurepas"
+            bio="Stockage Informatique, Isilon, NetApp, Pure Storage et Migration de données"
+            mission="Déploiement de matériels de stockage - Configuration de switch - Migration de données - Intervention à l'Hôpital Saint-Maurice, 12 rue du Val d’Osne PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
+            tools="Switch Pure Storage | Flash Blade / Flash Array Pure Storage | Putty | VmWare"
+            img="ConsultingData"/>
+            
+        </div>
     </section>
 
     <Footernav class="mt-[10%]"/>

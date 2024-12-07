@@ -35,7 +35,7 @@
             </li>
             <li>
                 <a href="#Stage">
-                    <p class="text-grey-color hover:text-white-color scale-100 hover:scale-105">Stage</p>
+                    <p class="text-grey-color hover:text-white-color scale-100 hover:scale-105">Stages</p>
                 </a>
             </li>
         </ul>
