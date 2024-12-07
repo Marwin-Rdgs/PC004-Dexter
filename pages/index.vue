@@ -58,19 +58,48 @@
     </section>
 
 
-    <section id="Veille" class="pb-[10%]">
+    <section id="CV" class="pb-[10%]">
 
+        <div class="flex justify-center gap-3">
+            <img src="/public/icons/stars-section.svg" alt="Icon Etoile - Titre section" class="w-[32px]">
+            <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Mon CV</h1>
+        </div>
+
+        <div class="grid grid-cols-4 px-[4%] pt-[2%]">
+            <a href="/docs/CV/CV_Anthony.pdf" target="_blank"><img src="/docs/CV/CV_Anthony.jpg" alt="Mon CV" class="h-[355px] rounded-xl scale-100 hover:scale-105 border-[0px] border-white-color hover:border-2"></a>
+            
+            <div class="col-span-3 grid grid-cols-3">
+                <p class="text-center font-Secondary text-grey-color col-span-3 pb-[2%]">Outils et logiciels utilisés lors de ma formation</p>
+                <tool titre="Linux" img="Linux"/>
+                <tool titre="Putty" img="Putty"/>
+                <tool titre="Cisco" img="Cisco"/>
+                <tool titre="VMWare" img="vmware"/>
+                <tool titre="Visual Studio" img="VisualStudio"/>
+                <tool titre="MobaXterm" img="MobaXterm"/>
+                <tool titre="Wireshark" img="Wireshark"/>
+                <tool titre="OracleVM" img="OracleVM"/>
+                <tool titre="Windows Server" img="WindowsServer"/>
+            </div>
+        </div>
+
+        <div class="flex justify-center mt-4">
+            <p class="text-secondary-color font-Primary w-1/2 text-lg">J'ai choisi la spécialité <b>SISR</b> car elle correspond à mon projet professionnel. Grâce à cette formation, je développe des compétences techniques, mais aussi une capacité à travailler en équipe et à gérer des projets.
+            </p>
+        </div>
+
+    </section>
+
+
+    <section id="Veille" class="pb-[10%]">
         <div class="flex justify-center gap-3">
             <img src="/public/icons/stars-section.svg" alt="Icon Etoile - Titre section" class="w-[32px]">
             <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Veille Technologique</h1>
         </div>
 
-        <div class="flex justify-center mt-4">
-            <p class="text-secondary-color font-Primary w-1/2 text-lg">L’intelligence artificielle  transforme radicalement l'industrie automobile, offrant des innovations majeures telles que la conduite autonome, les systèmes d’aide à la conduite (ADAS) et la gestion énergétique intelligente. Cette évolution soulève également des défis liés à la sécurité, à l'éthique et à la réglementation. À travers cette veille, nous analyserons les avancées technologiques, les enjeux sécuritaires, les critiques, et les perspectives économiques et environnementales. L'objectif est d'anticiper les impacts de l'IA sur la mobilité de demain et son intégration dans nos sociétés.</p>
-        </div>
-
         <veille />
     </section>
+
+
 
     <section id="Projet" class="pb-[10%]">
         <div class="flex justify-center gap-3">
