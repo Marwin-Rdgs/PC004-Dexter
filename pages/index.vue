@@ -32,12 +32,59 @@
         </div>
     </section>
 
+    <section id="Certif" class="pb-[10%]">
+        <div class="flex justify-center gap-3">
+            <img src="/public/icons/stars-section.svg" alt="Icon Etoile - Titre section" class="w-[32px]">
+            <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Certifications</h1>
+        </div>
 
-    <section>
-        <h2>test</h2>
+        <div class="grid lg:grid-cols-3 lg:gap-20 px-[4%] mt-[5%]">
+            <CardCertif 
+            name="ANSSI"
+            link="ANSSI"
+            img="ANSSI"/>
+            
+            <CardCertif 
+            name="PIX"
+            link="attestation-pix"
+            img="attestation-pix"/>
+            
+            <CardCertif 
+            name="CNIL"
+            link="CNIL"
+            img="CNIL_page1"/>
+        </div>
+
     </section>
 
-    <Footernav />
+
+    <section id="Veille" class="pb-[10%]">
+
+        <div class="flex justify-center gap-3">
+            <img src="/public/icons/stars-section.svg" alt="Icon Etoile - Titre section" class="w-[32px]">
+            <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Veille Technologique</h1>
+        </div>
+
+        <div class="flex justify-center mt-4">
+            <p class="text-secondary-color font-Primary w-1/2 text-lg">L’intelligence artificielle  transforme radicalement l'industrie automobile, offrant des innovations majeures telles que la conduite autonome, les systèmes d’aide à la conduite (ADAS) et la gestion énergétique intelligente. Cette évolution soulève également des défis liés à la sécurité, à l'éthique et à la réglementation. À travers cette veille, nous analyserons les avancées technologiques, les enjeux sécuritaires, les critiques, et les perspectives économiques et environnementales. L'objectif est d'anticiper les impacts de l'IA sur la mobilité de demain et son intégration dans nos sociétés.</p>
+        </div>
+
+        <veille />
+    </section>
+
+    <section id="Projet" class="pb-[10%]">
+        <div class="flex justify-center gap-3">
+            <img src="/public/icons/stars-section.svg" alt="Icon Etoile - Titre section" class="w-[32px]">
+            <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Projets</h1>
+        </div>
+
+        <div class="grid lg:grid-cols-3 lg:gap-20">
+
+        </div>
+
+    </section>
+
+    <Footernav class="mt-[10%]"/>
 
 
 </template>
