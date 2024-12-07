@@ -18,6 +18,6 @@ defineProps({
         </div>
         <p class="text-grey-color font-Primary my-[2%]"><b>Entreprise spécialisée</b> en {{ bio }}</p>
         <p class="text-grey-color font-Primary my-[2%]"><b>Missions confiées</b> : {{ mission }}</p>
-        <p class="bg-alert-color bg-opacity-10 rounded-lg text-center text-grey-color font-Primary">Outils : {{ tools }}</p>
+        <p class="bg-alert-color bg-opacity-10 rounded-lg text-center text-grey-color font-Primary"><b>Outils</b> : {{ tools }}</p>
     </div>
 </template>
