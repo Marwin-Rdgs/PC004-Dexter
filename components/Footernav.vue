@@ -22,10 +22,10 @@
     <li><a href="https://github.com/DeiD0" target="_blank"> <img src="/public/icons/github.svg" alt="logo github" class="w-[32px]"> </a></li>
 
     <!-- Icône Mail -->
-    <li><a href="mailto:anthony.hecquet78@gmail.com"> <img src="/public/icons/linkedin.svg" alt="logo Linkedin" class="w-[32px]"> </a></li>
+    <li><a href="https://www.linkedin.com/in/anthony-hecquet-460702331/" target="_blank"> <img src="/public/icons/linkedin.svg" alt="logo Linkedin" class="w-[32px]"> </a></li>
 
     <!-- Icône Linkedin -->
-    <li><a href="https://fr.linkedin.com/in/anthony-hecquet-460702331?trk=people-guest_people_search-card" target="_blank"> <img src="/public/icons/mail.svg" alt="logo Mail" class="w-[32px]"> </a></li>
+    <li><a href="mailto:anthony.hecquet78@gmail.com"> <img src="/public/icons/mail.svg" alt="logo Mail" class="w-[32px]"> </a></li>
 
 </ul>
 
