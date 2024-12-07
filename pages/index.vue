@@ -78,8 +78,27 @@
             <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Projets</h1>
         </div>
 
-        <div class="grid lg:grid-cols-3 lg:gap-20">
-
+        <div class="grid lg:grid-cols-3 lg:gap-20 px-[4%] pt-[4%]">
+            <CardProjet
+            titre="RAID"
+            link="RAID"
+            tools="Putty - Technologie RAID - mdadm - Vmware"
+            bio="Partitionnement d’une machine Linux en RAID avec système d’alerte par mail."
+            img="RAID"/>
+            
+            <CardProjet
+            titre="LVM"
+            link="LVM"
+            tools="Putty - Vmware - LVM"
+            bio="Partitionnement d’une machine Linux en LVM"
+            img="LVM"/>
+            
+            <CardProjet
+            titre="KEEPASS"
+            link="#"
+            tools="Ubuntu - Logiciel Keepass"
+            bio="Création d’un gestionnaire de mot de passe KEEPASS"
+            img="KEEPASS"/>
         </div>
 
     </section>
