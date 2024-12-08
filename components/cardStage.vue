@@ -6,6 +6,7 @@ defineProps({
     bio: String,
     tools: String,
     mission: String,
+    intervention: String,
 })
 
 </script>
@@ -18,6 +19,7 @@ defineProps({
         </div>
         <p class="text-grey-color font-Primary my-[2%]"><b>Entreprise spécialisée</b> en {{ bio }}</p>
         <p class="text-grey-color font-Primary my-[2%]"><b>Missions confiées</b> : {{ mission }}</p>
+        <p class="text-grey-color font-Primary my-[2%]"><b>Mes interventions</b> : {{ intervention }}</p>
         <p class="bg-alert-color bg-opacity-10 rounded-lg text-center text-grey-color font-Primary"><b>Outils</b> : {{ tools }}</p>
     </div>
 </template>

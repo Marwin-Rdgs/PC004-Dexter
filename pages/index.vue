@@ -1,5 +1,5 @@
 <template>
-    <Headnav class="z-50"/>
+  
 
     <!-- HERO -->
     <section class="mt-40 pb-96" id="Home">
@@ -143,14 +143,12 @@
             <CardStage class="w-1/2"
             name="Consulting Data, Maurepas"
             bio="Stockage Informatique, Isilon, NetApp, Pure Storage et Migration de données"
-            mission="Déploiement de matériels de stockage - Configuration de switch - Migration de données - Intervention à l'Hôpital Saint-Maurice, 12 rue du Val d’Osne PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
+            mission="Déploiement de matériels de stockage - Configuration de switch - Migration de données"
+            intervention="l'Hôpital Saint-Maurice, 12 rue du Val d’Osne - PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
             tools="Switch Pure Storage | Flash Blade / Flash Array Pure Storage | Putty | VmWare"
             img="ConsultingData"/>
             
         </div>
     </section>
-
-    <Footernav class="mt-[10%]"/>
-
 
 </template>
