@@ -25,13 +25,13 @@ Le projet utilise un pipeline **CI/CD** avec **GitHub** et **Netlify**, ainsi qu
 1. Clonez le repository :
 ```
    git clone https://github.com/Marwin-Rdgs/PC004-Dexter.git
-   cd sunshine
+   cd PC004-Dexter
 ```
 
 2. Installez les dépendances :
 ```
    git clone https://github.com/Marwin-Rdgs/PC004-Dexter.git
-   cd sunshine
+   cd PC004-Dexter
 ```
 
 3. Lancez le serveur de développement :
