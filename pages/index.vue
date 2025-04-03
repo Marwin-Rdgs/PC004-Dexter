@@ -109,10 +109,10 @@
 
         <div class="grid lg:grid-cols-3 lg:gap-20 px-[4%] pt-[4%]">
             <CardProjet
-            titre="RAID"
+            titre="GSB"
             link="RAID"
-            tools="Putty - Technologie RAID - mdadm - Vmware"
-            bio="Partitionnement d’une machine Linux en RAID avec système d’alerte par mail."
+            tools="Windows server - Linux -  TightVNC - Switch - Pfsense"
+            bio="Ce projet forme les étudiants à la configuration de serveurs, à la gestion des réseaux et à la documentation des solutions techniques. Nous devions déployer des services tels que le DHCP, l’impression et l’accès à distance, tout en accordant une importance particulière à la conception de schémas réseau et à la rédaction technique."
             img="RAID"/>
             
             <CardProjet
@@ -128,6 +128,26 @@
             tools="Ubuntu - Logiciel Keepass"
             bio="Création d’un gestionnaire de mot de passe KEEPASS"
             img="KEEPASS"/>
+            <CardProjet
+            titre="GLPI"
+            link="RAID"
+            tools="Vmware - Debian - Windows - Glpi - Fusion Inventory - Pfsense"
+            bio="Création d'un serveur debian pour glpi et ajout d'un agent pour l'inventaire."
+            img="RAID"/>
+            
+            <CardProjet
+            titre="RAID"
+            link="RAID"
+            tools="Putty - Technologie RAID - mdadm - Vmware"
+            bio="Partitionnement d’une machine Linux en RAID avec système d’alerte par mail."
+            img="RAID"/>
+            
+            <CardProjet
+            titre="Haute Disponibilité Linux"
+            link="#"
+            tools="Linux - Heartbeat - Samba - DRBD - Pfsense"
+            bio="Création d'un système de haute disponibilité pour linux."
+            img="KEEPASS"/>
         </div>
 
     </section>
@@ -138,7 +158,7 @@
             <h1 class="text-center text-alert-color font-Secondary font-light text-3xl">Stages</h1>
         </div>
 
-        <div class="lg:flex lg:justify-between lg:px-[10%] pt-[5%] gap-2">
+        <div class="lg:flex lg:justify-between lg:px-[10%] pt-[5%] gap-20">
             
             <CardStage class="w-1/2"
             name="Consulting Data, Maurepas"
@@ -147,14 +167,14 @@
             intervention="l'Hôpital Saint-Maurice, 12 rue du Val d’Osne - PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
             tools="Switch Pure Storage | Flash Blade / Flash Array Pure Storage | Putty | VmWare"
             img="ConsultingData"/>
-
+            
             <CardStage class="w-1/2"
             name="Gendarmerie Nationale, Issy-Les-Moulineaux"
-            bio="Stockage Informatique, Isilon, NetApp, Pure Storage et Migration de données"
-            mission="Déploiement de matériels de stockage - Configuration de switch - Migration de données"
-            intervention="l'Hôpital Saint-Maurice, 12 rue du Val d’Osne - PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
-            tools="Switch Pure Storage | Flash Blade / Flash Array Pure Storage | Putty | VmWare"
-            img="ConsultingData"/>
+            bio="protection civile."
+            mission="Création et déploiement d'une station blanche."
+            intervention="Aucune."
+            tools="Ubuntu | Switch "
+            img="gendarmerie-nationale-logo"/>
             
         </div>
     </section>
