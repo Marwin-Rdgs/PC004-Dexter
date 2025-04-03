@@ -147,6 +147,14 @@
             intervention="l'Hôpital Saint-Maurice, 12 rue du Val d’Osne - PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
             tools="Switch Pure Storage | Flash Blade / Flash Array Pure Storage | Putty | VmWare"
             img="ConsultingData"/>
+
+            <CardStage class="w-1/2"
+            name="Gendarmerie Nationale, Issy-Les-Moulineaux"
+            bio="Stockage Informatique, Isilon, NetApp, Pure Storage et Migration de données"
+            mission="Déploiement de matériels de stockage - Configuration de switch - Migration de données"
+            intervention="l'Hôpital Saint-Maurice, 12 rue du Val d’Osne - PA3 Equinix, 114 rue Ambroise croizat, Saint Denis"
+            tools="Switch Pure Storage | Flash Blade / Flash Array Pure Storage | Putty | VmWare"
+            img="ConsultingData"/>
             
         </div>
     </section>
