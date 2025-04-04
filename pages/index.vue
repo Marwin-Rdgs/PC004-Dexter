@@ -110,10 +110,10 @@
         <div class="grid lg:grid-cols-3 lg:gap-20 px-[4%] pt-[4%]">
             <CardProjet
             titre="GSB"
-            link="RAID"
+            link="Compte-rendu1"
             tools="Windows server - Linux -  TightVNC - Switch - Pfsense"
             bio="Ce projet forme les étudiants à la configuration de serveurs, à la gestion des réseaux et à la documentation des solutions techniques. Nous devions déployer des services tels que le DHCP, l’impression et l’accès à distance, tout en accordant une importance particulière à la conception de schémas réseau et à la rédaction technique."
-            img="RAID"/>
+            img="gsb"/>
             
             <CardProjet
             titre="LVM"
@@ -128,12 +128,13 @@
             tools="Ubuntu - Logiciel Keepass"
             bio="Création d’un gestionnaire de mot de passe KEEPASS"
             img="KEEPASS"/>
+
             <CardProjet
             titre="GLPI"
-            link="RAID"
+            link="glpi"
             tools="Vmware - Debian - Windows - Glpi - Fusion Inventory - Pfsense"
             bio="Création d'un serveur debian pour glpi et ajout d'un agent pour l'inventaire."
-            img="RAID"/>
+            img="glpi"/>
             
             <CardProjet
             titre="RAID"
@@ -144,10 +145,10 @@
             
             <CardProjet
             titre="Haute Disponibilité Linux"
-            link="#"
+            link="Ha"
             tools="Linux - Heartbeat - Samba - DRBD - Pfsense"
             bio="Création d'un système de haute disponibilité pour linux."
-            img="KEEPASS"/>
+            img="drbd"/>
         </div>
 
     </section>
