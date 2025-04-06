@@ -100,6 +100,12 @@
         </div>
 
         <veille />
+        <div class="flex justify-center mt-4">
+            <p class="text-secondary-color font-Primary w-1/2 text-lg">Pour effectuer ma veille technologique, j’utilise <b>« Google Alertes »</b> et <b>« Feedly »</b>, qui me créent des alertes chaque semaine.<br>
+Cela me permet d’être toujours au courant de toutes les actualités qui m’intéressent.<br>
+Pour ma veille technologique, j’ai choisi <b>l’intelligence artificielle dans les voitures</b>.
+            </p>
+        </div>
     </section>
 
 
