@@ -39,7 +39,7 @@
     <li><a href="#CV">Mon CV</a></li>
     <li><a href="#Veille">Veille Technologique</a></li>
     <li><a href="#Projet">Projets</a></li>
-    <li><a href="#Stage">Stage</a></li>
+    <li><a href="#Stage">Stages</a></li>
 </ul>
 
 <!-- Vous trouverez ici la "mention légale" -->

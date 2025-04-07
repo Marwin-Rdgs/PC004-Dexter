@@ -31,7 +31,7 @@
           <div class="flex justify-center">
             <img src="/public/imgs/veilles/Veille1.png" class="w-[355px] rounded-lg" alt="">
           </div>
-          <h5 class="my-5"><b>Problème sécurité donnée personnelles</b></h5>
+          <h5 class="my-5"><b>Problème sécurité données personnelles</b></h5>
           <a href="https://www.lemondeinformatique.fr/actualites/lire-le-cyber-resilience-act-un-texte-europeen-essentiel-pour-la-cybersecurite-95358.html" target="_blank" class="bg-primary-color text-white-color px-4 py-1 rounded-lg border-2 border-primary-color hover:bg-white-color hover:text-primary-color hover:font-bold"><button class="mt-5">Lire</button></a>
         </div>
       </li>
