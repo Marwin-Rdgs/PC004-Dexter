@@ -11,7 +11,7 @@
           <div class="flex justify-center">
             <img src="/public/imgs/veilles/UE.jpg" class="w-[355px] rounded-lg" alt="">
           </div>
-          <h5 class="my-5"><b>Danger voiture autonome</b></h5>
+          <h5 class="my-5"><b>Législation commission européenne</b></h5>
           <a href="https://www.zonebourse.com/cours/action/ALPHABET-INC-24203373/actualite/L-UE-prevoit-d-autoriser-les-groupes-de-services-automobiles-a-acceder-aux-donnees-des-vehicule-49234708/" target="_blank" class="bg-primary-color text-white-color px-4 py-1 rounded-lg border-2 border-primary-color hover:bg-white-color hover:text-primary-color hover:font-bold"><button class="mt-5">Lire</button></a>
         </div>
       </li>
@@ -21,7 +21,7 @@
           <div class="flex justify-center">
             <img src="/public/imgs/veilles/lg.jpg" class="w-[355px] rounded-lg" alt="">
           </div>
-          <h5 class="my-5"><b>Danger voiture autonome</b></h5>
+          <h5 class="my-5"><b>LG CES 2025</b></h5>
           <a href="https://www.servicesmobiles.fr/ces-2025-voiture-concept-ai-qui-analyse-tout-de-vous-jusqua-votre-humeur-102934" target="_blank" class="bg-primary-color text-white-color px-4 py-1 rounded-lg border-2 border-primary-color hover:bg-white-color hover:text-primary-color hover:font-bold"><button class="mt-5">Lire</button></a>
         </div>
       </li>
