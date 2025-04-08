@@ -43,6 +43,7 @@
 </ul>
 
 <!-- Vous trouverez ici la "mention légale" -->
+<p class="text-secondary-color font-Primary w-1/2 text-lg">© 2025 par Anthony HECQUET </p>
 <!-- <p>Projet réalisé dans le cadre d’un exercice pédagogique au département MMi de Montbéliard.</p> -->
 
 </footer>
