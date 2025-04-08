@@ -118,7 +118,7 @@ Pour ma veille technologique, j’ai choisi <b>l’intelligence artificielle dan
 
         <div class="grid lg:grid-cols-3 lg:gap-20 px-[4%] pt-[4%]">
             <CardProjet
-            titre="GSB"
+            titre="Soccer78"
             link="GSB"
             tools="Windows server - Linux -  TightVNC - Switch - Pfsense"
             bio="Ce projet forme les étudiants à la configuration de serveurs, à la gestion des réseaux et à la documentation des solutions techniques. Nous devions déployer des services tels que le DHCP, l’impression et l’accès à distance, tout en accordant une importance particulière à la conception de schémas réseau et à la rédaction technique."
